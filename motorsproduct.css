@@ -1,0 +1,25 @@
+	
+body{
+    
+    height: 100vh;
+    background: linear-gradient(135deg,#71b7e6,#9b59b6);
+
+  }
+
+.fieldset
+{
+  background-color: rgba(0, 0, 0, 0.1);width: 30px;
+}
+  
+
+ @media screen and (max-width: 640px) and (min-width: 360px)
+{
+.fieldset
+{
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 78%;
+}
+
+}
+
+
